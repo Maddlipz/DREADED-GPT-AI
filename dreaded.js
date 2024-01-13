@@ -449,9 +449,9 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 *_💚SLIMES💚_* 〙═⊷❍
+let cap = `╭════〘 *_DUSLANG BOT_* 〙═⊷❍
 ┃☘️❦╭──────────────
-┃☘️❦│ *_𝐎𝐰𝐧𝐞𝐫 : IMADDLIPZ_*
+┃☘️❦│ *_𝐎𝐰𝐧𝐞𝐫 : DUSLANG_*
 ┃☘️❦│ *_𝐔𝐬𝐞r: ${m.pushname}
 ┃☘️❦│ *_𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 : 𝐋𝐢𝐧𝐮𝐱_*
 ┃☘️❦│ *_𝐒𝐩𝐞𝐞𝐝 : 0.0009 𝐦𝐬_*
@@ -462,8 +462,8 @@ let cap = `╭════〘 *_💚SLIMES💚_* 〙═⊷❍
 ┃☘️❦▍▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞│
 ┃☘️❦│᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛ᚒ༒
 ┃☘️❦│᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛᚜᚛ᚒᚗ
-┃☘️❦│  💚*_SLIMES MAD_*💚
-┃☘️❦│ 💚.            AI.               💚
+┃☘️❦│  *DUSLANG*
+┃☘️❦│ .            AI.               
 ┃╰─────
 ╰─────────────────❍
 ╭══〘 *_𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃_* 〙══⊷❍
@@ -573,7 +573,7 @@ let cap = `╭════〘 *_💚SLIMES💚_* 〙═⊷❍
 ┃🦄☞│▕╰╯┈┗┛┗┛┈╭╮▕╮┈
 
 ══════════════════════════
-©▓█ <  𝞛𝞓𝘿𝘿𝙇𝞘𝞠Z BOT>█▓
+©▓█ <  DUSLANG BOT>█▓
 ══════════════════════════`
 if (menu === 'LINK') {
 
@@ -611,7 +611,7 @@ client.sendMessage(m.chat, {
           // Group Commands
 break;
 
-       case "maddlipz":      
+       case "duslang":      
 case "advice":
 reply(advice());
 console.log(advice());
